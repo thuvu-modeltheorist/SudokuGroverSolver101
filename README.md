@@ -188,6 +188,7 @@ the missing value is `2`, giving
 2 1 4 3
 4 3 2 1
 ```
+<img width="630" height="470" alt="fig1" src="https://github.com/user-attachments/assets/b1720e7d-0712-4d18-8861-f1506f81689f" />
 
 
 
