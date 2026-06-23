@@ -188,6 +188,7 @@ the missing value are `1` and `1`, giving
 2 1 4 3
 4 3 2 1
 ```
+<img width="630" height="470" alt="fig1" src="https://github.com/user-attachments/assets/d95cc27a-deea-468f-a4f6-c560a8df4de3" />
 
 Plot out the results. Expected `0000` to be the strongest, from the given example.
 <img width="630" height="470" alt="fig1" src="https://github.com/user-attachments/assets/b1720e7d-0712-4d18-8861-f1506f81689f" />
