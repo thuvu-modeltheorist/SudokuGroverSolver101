@@ -174,13 +174,13 @@ Always verify the measured grid classically. A measured candidate must:
 For
 
 ```text
-1 0 3 4
-3 4 1 2
+1 2 3 4
+3 4 0 2
 2 1 4 3
-4 3 2 1
+4 3 2 0
 ```
 
-the missing value is `2`, giving
+the missing value are `1` and '1', giving
 
 ```text
 1 2 3 4
@@ -188,6 +188,8 @@ the missing value is `2`, giving
 2 1 4 3
 4 3 2 1
 ```
+
+Plot out the results. Expected `0000` to be the strongest, from the given example.
 <img width="630" height="470" alt="fig1" src="https://github.com/user-attachments/assets/b1720e7d-0712-4d18-8861-f1506f81689f" />
 
 
