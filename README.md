@@ -189,5 +189,7 @@ the missing value is `2`, giving
 4 3 2 1
 ```
 
+<img width="630" height="470" alt="fig1" src="https://github.com/user-attachments/assets/6863d7ac-0c4b-40c4-afb6-99467c0f03b4" />
+
 
 
