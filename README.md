@@ -180,7 +180,7 @@ For
 4 3 2 0
 ```
 
-the missing value are `1` and '1', giving
+the missing value are `1` and `1`, giving
 
 ```text
 1 2 3 4
